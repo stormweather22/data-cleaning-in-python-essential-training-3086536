@@ -28,3 +28,4 @@ if num_bad > 0:
     bad_rows = df[~df.index.isin(ok_df.index)]
     print('bad rows:')
     print(bad_rows)
+# %%

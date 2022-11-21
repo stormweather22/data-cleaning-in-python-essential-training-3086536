@@ -26,3 +26,5 @@ try:
         df.to_sql('ships', conn, if_exists='append', index=False)
 finally:
     conn.close()
+
+# %%

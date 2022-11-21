@@ -22,3 +22,4 @@ df.loc[mask, 'name'] = np.nan
 # %%
 
 df[df.isnull().any(axis=1)]
+# %%

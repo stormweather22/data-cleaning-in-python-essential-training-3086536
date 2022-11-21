@@ -16,3 +16,4 @@ mdf
 
 # %%
 df[mdf['height'] > mdf['max_height']]
+# %%

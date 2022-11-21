@@ -28,3 +28,4 @@ schema = pa.DataFrameSchema({
 })
 
 schema.validate(df)
+# %%
